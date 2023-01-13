@@ -227,15 +227,15 @@ body{font-family: "맑은 고딕", 돋움, sans-serif;}
 #pos3:checked~ul{margin-left: -200%;}
 #pos4:checked~ul{margin-left: -300%;}
 
-#pos1:checked~ .pos>label:nth-child(1){background: url(../image/main/small\ banner1.png)}
-#pos2:checked~ .pos>label:nth-child(2){background: url(../image/main/small\ banner2.png);}
-#pos3:checked~ .pos>label:nth-child(3){background: url(../image/main/small\ banner3.png.);}
-#pos4:checked~ .pos>label:nth-child(4){background: url(../image/main/small\ banner4.png);}
+#pos1:checked~ .pos>label:nth-child(1){background: url(../image/main/small_banner1.png)}
+#pos2:checked~ .pos>label:nth-child(2){background: url(../image/main/small_banner2.png);}
+#pos3:checked~ .pos>label:nth-child(3){background: url(../image/main/small_banner3.png);}
+#pos4:checked~ .pos>label:nth-child(4){background: url(../image/main/small_banner4.png);}
 
-#pos1 ~ .pos>label:nth-child(1){background: url(../image/main/small\ banner1_1.png);}
-#pos2 ~ .pos>label:nth-child(2){background: url(../image/main/small\ banner2-1.png);}
-#pos3 ~ .pos>label:nth-child(3){background: url(../image/main/small\ banner3-1.png);}
-#pos4 ~ .pos>label:nth-child(4){background: url(../image/main/small\ banner4-1.png);}
+#pos1 ~ .pos>label:nth-child(1){background: url(../image/main/small_banner1_1.png);}
+#pos2 ~ .pos>label:nth-child(2){background: url(../image/main/small_banner2-1.png);}
+#pos3 ~ .pos>label:nth-child(3){background: url(../image/main/small_banner3-1.png);}
+#pos4 ~ .pos>label:nth-child(4){background: url(../image/main/small_banner4-1.png);}
 
 /* 섹션1_아이콘 */
 #info{
